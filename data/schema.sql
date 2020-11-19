@@ -8,3 +8,4 @@ CREATE TABLE IF NOT EXISTS books (
   image_url VARCHAR(255),
   description TEXT
 );
+
